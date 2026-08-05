@@ -7,6 +7,7 @@ __pycache__/
 .venv/
 venv/
 env/
+ENV/
 
 # Environment variables / secrets
 .env
@@ -18,10 +19,29 @@ processed_alerts.json
 soc_report.json
 soc_report.txt
 
-# OS / editor files
+# Local alert data
+alerts.json
+
+# Python packaging / build files
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS files
 .DS_Store
+.DS_Store?
+
+# IDE / editor files
 .vscode/
 .idea/
 
 # Logs
 *.log
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
