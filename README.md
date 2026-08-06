@@ -245,19 +245,17 @@ The repository also excludes sensitive and generated files through `.gitignore`,
 
 The `screenshots/` directory contains documentation of the project, including:
 
-1. Project Overview
-2. Wazuh Deployment Environment
-3. Wazuh Security Events and MITRE ATT&CK Dashboard
-4. Security Event Discovery
-5. Security Event and Vulnerability Detection
-6. AI Analyst Initialization
-7. AI-Powered Alert Analysis
-8. Automated SOC Decision Logic
-9. Automated Alert Processing Pipeline
-10. Automated Alert Monitoring
-11. AI Security Report Generation
-12. Sample SIEM Alerts
-13. Wazuh Alert Investigation and Event Context
+1. Wazuh Deployment Environment
+2. Wazuh Security Events and MITRE ATT&CK Dashboard
+3. Security Event Discovery
+4. AI Analyst Initialization
+5. AI-Powered Alert Analysis
+6. Automated SOC Decision Logic
+7. Automated Alert Processing Pipeline
+8. Automated Alert Monitoring
+9. AI Security Report Generation
+10. Sample SIEM Alerts
+11. Wazuh Alert Investigation and Event Context
 
 ## Skills Demonstrated
 
